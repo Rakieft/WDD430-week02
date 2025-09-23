@@ -1,6 +1,0 @@
-{
-	"dependencies": {
-		"next": "^15.5.3",
-		"use-debounce": "^10.0.6"
-	}
-}
